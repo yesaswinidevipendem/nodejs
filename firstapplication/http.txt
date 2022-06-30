@@ -1,0 +1,6 @@
+libraries for HTTP request
+--------------------------
+needle
+fetch
+axios
+got
